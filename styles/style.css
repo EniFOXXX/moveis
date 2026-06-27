@@ -1,6 +1,21 @@
+body {
+    background-color: #F0F8FF;
+    margin: 0;
+    padding: 0;
+}
 h1 {
     font-family: Arial, sans-serif;
+    font-size: 50px;
+    color: #2E8B57;
+    text-align: center;
+    
+
 }
 li {
     font-family: monospace;
+    font-size: 20px;
+    color: #333;
+    text-align: left;
+    list-style: none;
 }
+
